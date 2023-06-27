@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheManager", "CacheManager\CacheManager.csproj", "{BFE96162-6625-41BB-B7E0-6473AEBF693D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheManager_Tests", "CacheManager_Tests\CacheManager_Tests.csproj", "{7CC7CB21-32B1-447D-9BDB-8BC2F63909A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE96162-6625-41BB-B7E0-6473AEBF693D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE96162-6625-41BB-B7E0-6473AEBF693D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE96162-6625-41BB-B7E0-6473AEBF693D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE96162-6625-41BB-B7E0-6473AEBF693D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC7CB21-32B1-447D-9BDB-8BC2F63909A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC7CB21-32B1-447D-9BDB-8BC2F63909A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC7CB21-32B1-447D-9BDB-8BC2F63909A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC7CB21-32B1-447D-9BDB-8BC2F63909A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF23CDF4-693C-476B-8445-A24BA4469E8F}
+	EndGlobalSection
+EndGlobal
